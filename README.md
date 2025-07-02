@@ -18,6 +18,9 @@ PyQt5 freely available from pypi.org.
 Files:
 BlockDiagram.pdf - block diagram demonstrating components and connections required in order to build a
 Raspberry Pi-based controller for one or more stepper motors to enable wet-spinning
+
 GUI.py - python code for graphical user interface
+
 Controller.py - control code for Adafruit Pi HAT-based stepper motor controllers (see limitations noted above)
+
 NewController.py - control code for Tic T249 Stepper Motor controllers (connected by USB)
