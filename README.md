@@ -12,4 +12,5 @@ rate achievable, in our hands being accurate and useable up to ~46 rpm
 
 Dependencies:
 Requires ticcmd command line tool from Polulu and the Adafruit motor and motorkit (available as part of
-the Adafruit library and driver bundle) - both are available through GitHub
+the Adafruit library and driver bundle) - both are available through GitHub. GUI functionality uses 
+PyQt5 freely available from pypi.org.
