@@ -1,6 +1,6 @@
 # MotorController
-Python code for graphical user interface (GUI) for wet-spinning device
-from Jan Rainey's lab at Dalhouise University coded by Donovan Rainey (summer 2024)
+Block diagram demonstrating component connectivity and python code for graphical user interface (GUI) for wet-spinning device
+in Jan Rainey's lab at Dalhouise University built and coded by Donovan Rainey (summer 2024)
 
 This is a GUI for an automated protein wet-spinning device that is configured to
 enable both speed and directional control of up to 6 stepper motors. The GUI
