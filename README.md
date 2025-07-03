@@ -1,5 +1,5 @@
 # MotorController
-Block diagram demonstrating component connectivity and python code for graphical user interface (GUI) for wet-spinning device
+Block diagram and python code for graphical user interface (GUI)-conrolled wet-spinning device
 in Jan Rainey's lab at Dalhouise University built and coded by Donovan Rainey (summer 2024)
 
 This is a GUI for an automated protein wet-spinning device that is configured to
